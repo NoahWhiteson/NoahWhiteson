@@ -4,7 +4,7 @@ Hey there! I'm **Noah**, a **13-year-old full-stack developer** with a passion f
 
 - 🌟 Currently working on a **personalized AI assistant** project.
 - 💼 Completed **5+ long-term projects** across various domains.
-- 🇨🇦 Based in **Canada**, bringing a global perspective to tech.
+- 🍁 Based in **Canada**, bringing a global perspective to tech.
 - 👨‍💻 Focused on **React**, **Python**, and AI development.
 
 ---
