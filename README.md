@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hey there! I'm **Noah**, a **13-year-old full-stack developer** with a passion for crafting innovative tech solutions. I specialize in both **frontend** and **backend** development, building projects that are not only functional but also enjoyable to use.
+Hey there! I'm **Noah**, a **full-stack developer** with a passion for crafting innovative tech solutions. I specialize in both **frontend** and **backend** development, building projects that are not only functional but also enjoyable to use.
 
 - 🌟 Currently working on a **personalized AI assistant** project.
 - 💼 Completed **5+ long-term projects** across various domains.
