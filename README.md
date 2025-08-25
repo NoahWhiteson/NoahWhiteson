@@ -60,6 +60,10 @@ Hey there! I'm **Noah**, a **full-stack developer** with a passion for crafting 
 
 
 ---
+### **2025 Toronto Science Fair Silver Medalist 🥈**
+
+
+---
 
 [![Visitor Count](https://visitcount.itsvg.in/api?id=prisumdevolopes&icon=6&color=0)](https://visitcount.itsvg.in)
 
