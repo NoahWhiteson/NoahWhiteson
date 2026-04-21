@@ -55,4 +55,5 @@ Hey there! I'm **Noah**, a **full-stack developer** with a passion for crafting 
 
 ---
 ### **2025 Toronto Science Fair Silver Medalist 🥈**
+### **2026 Toronto Science Fair Silver Medalist 🥈**
 
