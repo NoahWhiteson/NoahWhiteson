@@ -54,6 +54,7 @@ Hey there! I'm **Noah**, a **full-stack developer** with a passion for crafting 
 
 
 ---
+### **2026 Vibejam Award Winner Hosted by Levelsio 🏆 | #14th/#935 | 1K USD Prize**
 ### **2025 Toronto Science Fair Silver Medalist 🥈**
 ### **2026 Toronto Science Fair Silver Medalist 🥈**
 
